@@ -1,0 +1,12 @@
+#Ignore Board backup files
+
+*.b#?
+*.b##
+
+#Ignore Schematic backup files
+
+*.s#?
+*.s##
+
+#Ignore lock filea
+*.lck
